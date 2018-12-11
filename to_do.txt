@@ -11,3 +11,7 @@ take out trash
 practice piano
 plan party
 Party Party
+<<<<<<< HEAD
+=======
+pack car
+>>>>>>> 1ff3bd6... todo list add camping

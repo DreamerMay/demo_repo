@@ -1,9 +1,9 @@
 Shopping List
 
 apples
-bananas
+6 bananas
 yogurt
-milk
+full cream milk
 bread
 cereal
 12 eggs

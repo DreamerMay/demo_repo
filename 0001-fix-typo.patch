@@ -1,0 +1,36 @@
+From dfb19459a94b6dc44b0b1ee8971e7b66cc0a31f2 Mon Sep 17 00:00:00 2001
+From: Sherine Foo <sherine.foo@oneflare.com>
+Date: Tue, 11 Dec 2018 12:19:27 +1100
+Subject: [PATCH 1/2] fix typo
+
+---
+ README.md    | 2 +-
+ shopping.txt | 4 ++--
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/README.md b/README.md
+index d3623ca..8503553 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1 @@
+-This is a demonstration repository for Git Intermediate Techniques. Test on Interative Stage
++This is a demonstration repository for Git Intermediate Techniques. Test on Interative Stage2
+diff --git a/shopping.txt b/shopping.txt
+index 7616d09..cc0c8f8 100644
+--- a/shopping.txt
++++ b/shopping.txt
+@@ -1,9 +1,9 @@
+ Shopping List
+ 
+ apples
+-bananas
++6 bananas
+ yogurt
+-milk
++full cream milk
+ bread
+ cereal
+ 12 eggs
+-- 
+2.19.2
+

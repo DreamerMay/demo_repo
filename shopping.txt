@@ -13,7 +13,7 @@ grapes
 lemons
 lettuce
 brown rice
-soup
+chicken soup
 ice cream
 brown sugar
 flour

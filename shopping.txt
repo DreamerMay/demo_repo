@@ -1,12 +1,12 @@
 Shopping List
 
-apples
-bananas
-yogurt
-milk
+Red apples
+6 bananas
+vanila yogurt
+full cream milk
 bread
 cereal
-12 eggs
+15 eggs
 bacon
 orange juice
 grapes
@@ -17,5 +17,7 @@ soup
 ice cream
 sugar
 flour
-Key-features
-
+Grasss feed butter
+coffee
+avocado
+pear
